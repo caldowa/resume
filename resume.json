@@ -2,7 +2,7 @@
   "basics": {
     "name": "Arnaud Caldow",
     "label": "Senior Data Engineer",
-    "picture": "https://caldowa.github.io/resume/images/profile.jpg",
+    "image": "https://caldowa.github.io/resume/images/profile.jpg",
     "email": "arnaud.caldow@gmail.com",
     "phone": "+32497638615",
     "location": {
@@ -25,7 +25,7 @@
   },
   "work": [
     {
-      "name": "Collibra",
+      "company": "Collibra",
       "position": "Senior Data Engineer",
       "startDate": "2024-04",
       "location": "Brussels, Belgium",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Collibra",
+      "company": "Collibra",
       "position": "Data Engineer II",
       "startDate": "2023-04",
       "endDate": "2024-03",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "Collibra",
+      "company": "Collibra",
       "position": "Data Engineer",
       "startDate": "2022-04",
       "endDate": "2023-03",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "Lucy In The Cloud (Micropole)",
+      "company": "Lucy In The Cloud (Micropole)",
       "position": "Data/Cloud Engineer Consultant",
       "startDate": "2019-09",
       "endDate": "2022-03",
@@ -136,8 +136,7 @@
       "studyType": "M.S.",
       "area": "Business Engineering",
       "startDate": "2017-09",
-      "endDate": "2019-06",
-      "location": "Mons, Belgium"
+      "endDate": "2019-06"
     },
     {
       "institution": "Louvain School of Management (LSM)",
@@ -145,8 +144,7 @@
       "studyType": "B.S.",
       "area": "Business Engineering",
       "startDate": "2014-09",
-      "endDate": "2017-06",
-      "location": "Mons, Belgium"
+      "endDate": "2017-06"
     }
   ],
   "languages": [

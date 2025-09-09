@@ -32,7 +32,8 @@
       "highlights": [
         "**Data Platform Design and Migration:** Led the design and implementation of a new data platform to replace the no-code stack, guiding analysts in transitioning to dbt and adopting best practices.",
         "**Strategic Roadmap and Stakeholder Management:** Co-developed a long-term roadmap for the Data Engineering team, aligning projects with company goals while respecting stakeholder priorities.",
-        "**Hiring and Team Expansion:** Conducted technical interviews and skill assessments resulting in the hire of new data engineers."
+        "**Hiring and Team Expansion:** Conducted technical interviews and skill assessments resulting in the hire of new data engineers.",
+        "**LLM-Powered Data Assistant:** Led the development and deployment of a Streamlit web application integrated with a large language model, enabling business users to query and explore company data conversationally."
       ]
     },
     {

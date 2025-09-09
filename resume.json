@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Arnaud Caldow",
+    "label": "Senior Data Engineer",
+    "picture": "profile.jpg",
+    "email": "arnaud.caldow@gmail.com",
+    "phone": "+32497638615",
+    "location": {
+      "city": "Liège",
+      "countryCode": "BE"
+    },
+    "summary": "Senior Data Engineer with experience designing and scaling cloud-based data platforms across AWS, GCP, and Azure. Skilled in data pipeline orchestration, ETL development, and data lakehouse/warehouse solutions. Adept at mentoring engineers, leading tool migrations, and setting platform-wide standards while maintaining a high-level architectural vision to align technology with business needs.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "arnaud-caldow-384423142",
+        "url": "https://www.linkedin.com/in/arnaud-caldow-384423142/"
+      },
+      {
+        "network": "GitHub",
+        "username": "caldowa",
+        "url": "https://github.com/caldowa"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Collibra",
+      "position": "Senior Data Engineer",
+      "startDate": "2024-04",
+      "location": "Brussels, Belgium",
+      "highlights": [
+        "Mentored junior and mid-level data engineers, providing technical guidance and career support",
+        "Conducted technical and behavioral interviews for multiple engineering positions",
+        "Led migrations of key data tools, including orchestrator, ingestion platform, and cost estimation for a new data warehouse",
+        "Defined platform-wide standards and best practices for data engineering processes",
+        "Maintained a high-level architectural view of the platform, ensuring alignment and connectivity across systems"
+      ]
+    },
+    {
+      "name": "Collibra",
+      "position": "Data Engineer II",
+      "startDate": "2023-04",
+      "endDate": "2024-03",
+      "location": "Brussels, Belgium"
+    },
+    {
+      "name": "Collibra",
+      "position": "Data Engineer",
+      "startDate": "2022-04",
+      "endDate": "2023-03",
+      "location": "Brussels, Belgium",
+      "highlights": [
+        "Implemented the new pipeline orchestrating solution",
+        "Migrated 50+ data pipelines from the legacy orchestration tool",
+        "Coordinated with stakeholders to bring in new data sources into Collibra's Datalake",
+        "Published Data Engineering best practices for pipeline development within Data Mesh",
+        "Developed a library to use Data Quality tool within the orchestrator"
+      ]
+    },
+    {
+      "name": "Lucy In The Cloud (Micropole)",
+      "position": "Data/Cloud Engineer Consultant",
+      "startDate": "2019-09",
+      "endDate": "2022-03",
+      "location": "Zaventem, Belgium",
+      "highlights": [
+        "Implemented a Data Lakehouse facilitating data access and management for analysts",
+        "Developed an ETL solution to implement a fast track with Self-BI capabilities",
+        "Implemented a fully serverless ETL solution delivering data for API consumption",
+        "Collaborated with analytics team on ETL tasks ensuring data integrity",
+        "Designed Jenkins pipeline to automate deployment of ETL scripts on AWS",
+        "Implemented pub/sub solution for API messages with unique ID and classification",
+        "Built a big data serverless ETL solution to process large transactional files and expose them in a Data Warehouse"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Louvain School of Management (LSM)",
+      "studyType": "M.S.",
+      "area": "Business Engineering",
+      "startDate": "2017-09",
+      "endDate": "2019-06",
+      "location": "Mons, Belgium"
+    },
+    {
+      "institution": "Louvain School of Management (LSM)",
+      "studyType": "B.S.",
+      "area": "Business Engineering",
+      "startDate": "2014-09",
+      "endDate": "2017-06",
+      "location": "Mons, Belgium"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "SQL", "Scala", "Rust"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["AWS", "GCP", "Azure"]
+    },
+    {
+      "name": "Data Engineering",
+      "keywords": ["S3", "GCS", "Redshift", "BigQuery", "Athena", "Glue", "Spark", "Airflow", "Trifacta"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Terraform", "GitHub Actions", "Jenkins"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "url": "https://www.credly.com/badges/d1980c43-270b-4b89-b1ac-0bc742926376/linked_in_profile"
+    },
+    {
+      "name": "DVA - Certified Data Vault 2.0 Practitioner"
+    },
+    {
+      "name": "AWS Solutions Architect Associate",
+      "url": "https://www.credly.com/badges/fb5fc41c-f3eb-4e0e-a099-0cbcb8c69260/linked_in_profile"
+    },
+    {
+      "name": "Astronomer Certification for Apache Airflow Fundamentals"
+    }
+  ],
+  "languages": [
+    { "language": "French", "fluency": "Native" },
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Dutch", "fluency": "Intermediate" }
+  ]
+}

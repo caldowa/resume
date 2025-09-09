@@ -30,11 +30,9 @@
       "startDate": "2024-04",
       "location": "Brussels, Belgium",
       "highlights": [
-        "Mentored junior and mid-level data engineers, providing technical guidance and career support",
-        "Conducted technical and behavioral interviews for multiple engineering positions",
-        "Led migrations of key data tools, including orchestrator, ingestion platform, and cost estimation for a new data warehouse",
-        "Defined platform-wide standards and best practices for data engineering processes",
-        "Maintained a high-level architectural view of the platform, ensuring alignment and connectivity across systems"
+        "**Data Platform Design and Migration:** Led the design and implementation of a new data platform to replace the no-code stack, guiding analysts in transitioning to dbt and adopting best practices.",
+        "**Strategic Roadmap and Stakeholder Management:** Co-developed a long-term roadmap for the Data Engineering team, aligning projects with company goals while respecting stakeholder priorities.",
+        "**Hiring and Team Expansion:** Conducted technical interviews and skill assessments resulting in the hire of new data engineers."
       ]
     },
     {
@@ -42,7 +40,11 @@
       "position": "Data Engineer II",
       "startDate": "2023-04",
       "endDate": "2024-03",
-      "location": "Brussels, Belgium"
+      "location": "Brussels, Belgium",
+      "highlights": [
+        "**Data Quality Integration:** Developed an Airflow provider for Collibra Data Quality, enabling seamless integration of quality checks into ETL processes and improving data accuracy.",
+        "**Process Automation:** Automated requirement-gathering processes, reducing response time by 40% and enhancing user support efficiency."
+      ]
     },
     {
       "name": "Collibra",
@@ -51,11 +53,9 @@
       "endDate": "2023-03",
       "location": "Brussels, Belgium",
       "highlights": [
-        "Implemented the new pipeline orchestrating solution",
-        "Migrated 50+ data pipelines from the legacy orchestration tool",
-        "Coordinated with stakeholders to bring in new data sources into Collibra's Datalake",
-        "Published Data Engineering best practices for pipeline development within Data Mesh",
-        "Developed a library to use Data Quality tool within the orchestrator"
+        "**Pipeline Modernization:** Led the migration of 50+ data pipelines to a new orchestration tool, enhancing processing speed and reliability.",
+        "**Data Lake and Data Mesh:** Brought in new data sources and standardized best practices, improving data accessibility and pipeline consistency.",
+        "**Technical Leadership:** Mentored junior engineers and conducted workshops to advance team expertise in data engineering best practices."
       ]
     },
     {
@@ -65,14 +65,68 @@
       "endDate": "2022-03",
       "location": "Zaventem, Belgium",
       "highlights": [
-        "Implemented a Data Lakehouse facilitating data access and management for analysts",
-        "Developed an ETL solution to implement a fast track with Self-BI capabilities",
-        "Implemented a fully serverless ETL solution delivering data for API consumption",
-        "Collaborated with analytics team on ETL tasks ensuring data integrity",
-        "Designed Jenkins pipeline to automate deployment of ETL scripts on AWS",
-        "Implemented pub/sub solution for API messages with unique ID and classification",
-        "Built a big data serverless ETL solution to process large transactional files and expose them in a Data Warehouse"
+        "**ETL and Data Lakehouse Development:** Designed ETL solutions for a data lakehouse, empowering analysts with accessible, self-service data.",
+        "**Serverless Solutions:** Implemented serverless ETL workflows and pub/sub messaging, automating high-volume data processing.",
+        "**Automation and DevOps:** Built Jenkins pipelines for automated ETL deployments on AWS, ensuring reliable, scalable data integration."
       ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "Scala", "SQL", "Bash", "Rust"]
+    },
+    {
+      "name": "Data Tools",
+      "keywords": ["Spark", "Airflow", "dbt", "dlt", "Kafka", "ETL"]
+    },
+    {
+      "name": "Databases/Datalakes",
+      "keywords": ["S3", "GCS", "Redshift", "BigQuery", "Snowflake", "Databricks", "AWS Glue/Athena", "PostgreSQL"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["AWS", "GCP", "Azure"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Terraform", "GitHub Actions", "Jenkins", "Docker", "Kubernetes"]
+    },
+    {
+      "name": "Mentoring",
+      "keywords": ["Guidance on industry best practices, advanced technical skills, and career development to aspiring data engineers."]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Monetization Strategy: Creating Value Through Data",
+      "date": "2024-05-13",
+      "issuer": "MIT Sloan School of Management",
+      "url": "https://mitsloan.credential.getsmarter.com/486b3573-20c3-44ff-9a64-6c322c6c8f2e#acc.aAbe0JH2"
+    },
+    {
+      "name": "Astronomer Certification for Apache Airflow Fundamentals",
+      "date": "2023-02-24",
+      "issuer": "Astronomer",
+      "url": "https://www.credly.com/badges/fb5fc41c-f3eb-4e0e-a099-0cbcb8c69260/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2020-06-05",
+      "issuer": "Microsoft",  
+      "url": "https://www.youracclaim.com/badges/d1980c43-270b-4b89-b1ac-0bc742926376/linked_in_profile"
+    },
+    {
+      "name": "DVA - Certified Data Vault 2.0 Practitioner",
+      "date": "2020-05-04",
+      "issuer": "Data Vault Alliance",
+      "url": "https://datavaultalliance.com/"
+    },
+    {
+      "name": "AWS Solutions Architect Associate",
+      "date": "2019-11",
+      "issuer": "Amazon Web Services",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
     }
   ],
   "education": [
@@ -86,45 +140,12 @@
     },
     {
       "institution": "Louvain School of Management (LSM)",
+      "url": "https://www.uclouvain.be/en/faculties/lsm",
       "studyType": "B.S.",
       "area": "Business Engineering",
       "startDate": "2014-09",
       "endDate": "2017-06",
       "location": "Mons, Belgium"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "keywords": ["Python", "SQL", "Scala", "Rust"]
-    },
-    {
-      "name": "Cloud",
-      "keywords": ["AWS", "GCP", "Azure"]
-    },
-    {
-      "name": "Data Engineering",
-      "keywords": ["S3", "GCS", "Redshift", "BigQuery", "Athena", "Glue", "Spark", "Airflow", "Trifacta"]
-    },
-    {
-      "name": "DevOps",
-      "keywords": ["Terraform", "GitHub Actions", "Jenkins"]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Microsoft Certified: Azure Fundamentals",
-      "url": "https://www.credly.com/badges/d1980c43-270b-4b89-b1ac-0bc742926376/linked_in_profile"
-    },
-    {
-      "name": "DVA - Certified Data Vault 2.0 Practitioner"
-    },
-    {
-      "name": "AWS Solutions Architect Associate",
-      "url": "https://www.credly.com/badges/fb5fc41c-f3eb-4e0e-a099-0cbcb8c69260/linked_in_profile"
-    },
-    {
-      "name": "Astronomer Certification for Apache Airflow Fundamentals"
     }
   ],
   "languages": [

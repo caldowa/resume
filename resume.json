@@ -2,6 +2,7 @@
   "basics": {
     "name": "Arnaud Caldow",
     "label": "Senior Data Engineer",
+    "picture": "https://caldowa.github.io/resume/images/profile.jpg",
     "image": "https://caldowa.github.io/resume/images/profile.jpg",
     "email": "arnaud.caldow@gmail.com",
     "phone": "+32497638615",
@@ -25,6 +26,7 @@
   },
   "work": [
     {
+      "name": "Collibra",
       "company": "Collibra",
       "position": "Senior Data Engineer",
       "startDate": "2024-04",
@@ -37,6 +39,7 @@
       ]
     },
     {
+      "name": "Collibra",
       "company": "Collibra",
       "position": "Data Engineer II",
       "startDate": "2023-04",
@@ -48,6 +51,7 @@
       ]
     },
     {
+      "name": "Collibra",
       "company": "Collibra",
       "position": "Data Engineer",
       "startDate": "2022-04",
@@ -60,6 +64,7 @@
       ]
     },
     {
+      "name": "Lucy In The Cloud (Micropole)",
       "company": "Lucy In The Cloud (Micropole)",
       "position": "Data/Cloud Engineer Consultant",
       "startDate": "2019-09",

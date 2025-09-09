@@ -92,10 +92,6 @@
     {
       "name": "DevOps",
       "keywords": ["Terraform", "GitHub Actions", "Jenkins", "Docker", "Kubernetes"]
-    },
-    {
-      "name": "Mentoring",
-      "keywords": ["Guidance on industry best practices, advanced technical skills, and career development to aspiring data engineers."]
     }
   ],
   "certificates": [

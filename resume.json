@@ -30,7 +30,7 @@
       "company": "Collibra",
       "position": "Senior Data Engineer",
       "startDate": "2024-04",
-      "location": "Brussels, Belgium",
+      "location": "Remote",
       "highlights": [
         "**Data Platform Design and Migration:** Led the design and implementation of a new data platform to replace the no-code stack, guiding analysts in transitioning to dbt and adopting best practices.",
         "**Strategic Roadmap and Stakeholder Management:** Co-developed a long-term roadmap for the Data Engineering team, aligning projects with company goals while respecting stakeholder priorities.",
@@ -44,7 +44,7 @@
       "position": "Data Engineer II",
       "startDate": "2023-04",
       "endDate": "2024-03",
-      "location": "Brussels, Belgium",
+      "location": "Remote",
       "highlights": [
         "**Data Quality Integration:** Developed an Airflow provider for Collibra Data Quality, enabling seamless integration of quality checks into ETL processes and improving data accuracy.",
         "**Process Automation:** Automated requirement-gathering processes, reducing response time by 40% and enhancing user support efficiency."
@@ -56,7 +56,7 @@
       "position": "Data Engineer",
       "startDate": "2022-04",
       "endDate": "2023-03",
-      "location": "Brussels, Belgium",
+      "location": "Remote",
       "highlights": [
         "**Pipeline Modernization:** Led the migration of 50+ data pipelines to a new orchestration tool, enhancing processing speed and reliability.",
         "**Data Lake and Data Mesh:** Brought in new data sources and standardized best practices, improving data accessibility and pipeline consistency.",

@@ -25,10 +25,18 @@
   },
   "work": [
     {
+      "name": "Devoteam",
+      "company": "Devoteam",
+      "position": "Principal Data Architect",
+      "startDate": "2026-08",
+      "location": "Mechelen"
+    },
+    {
       "name": "Collibra",
       "company": "Collibra",
       "position": "Lead, Senior Data Engineer",
       "startDate": "2024-04",
+      "endDate": "2026-08",
       "location": "Remote",
       "highlights": [
         "**Data Platform Design and Migration:** Led the design and implementation of a new data platform to replace the no-code stack, guiding analysts in transitioning to dbt and adopting best practices.",

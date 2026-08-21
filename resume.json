@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Arnaud Caldow",
-    "label": "Senior Data Engineer",
+    "label": "Principal Data Architect",
     "picture": "https://caldowa.github.io/resume/images/profile.jpg",
     "image": "https://caldowa.github.io/resume/images/profile.jpg",
     "email": "arnaud.caldow@gmail.com",
@@ -9,7 +9,7 @@
       "city": "Liège",
       "countryCode": "BE"
     },
-    "summary": "Senior Data Engineer with experience designing and scaling cloud-based data platforms across AWS, GCP, and Azure. Skilled in data pipeline orchestration, ETL development, and data lakehouse/warehouse solutions. Adept at mentoring engineers, leading tool migrations, and setting platform-wide standards while maintaining a high-level architectural vision to align technology with business needs.",
+    "summary": "Data Architect with experience designing and scaling cloud-based data platforms across AWS, GCP, and Azure. Skilled in data pipeline orchestration, ETL development, and data lakehouse/warehouse solutions. Adept at mentoring engineers, leading tool migrations, and setting platform-wide standards while maintaining a high-level architectural vision to align technology with business needs.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -27,36 +27,16 @@
     {
       "name": "Collibra",
       "company": "Collibra",
-      "position": "Senior Data Engineer",
+      "position": "Lead, Senior Data Engineer",
       "startDate": "2024-04",
       "location": "Remote",
       "highlights": [
         "**Data Platform Design and Migration:** Led the design and implementation of a new data platform to replace the no-code stack, guiding analysts in transitioning to dbt and adopting best practices.",
         "**Strategic Roadmap and Stakeholder Management:** Co-developed a long-term roadmap for the Data Engineering team, aligning projects with company goals while respecting stakeholder priorities.",
         "**Hiring and Team Expansion:** Conducted technical interviews and skill assessments resulting in the hire of new data engineers.",
-        "**LLM-Powered Data Assistant:** Led the development and deployment of a Streamlit web application integrated with a large language model, enabling business users to query and explore company data conversationally."
-      ]
-    },
-    {
-      "name": "Collibra",
-      "company": "Collibra",
-      "position": "Data Engineer II",
-      "startDate": "2023-04",
-      "endDate": "2024-03",
-      "location": "Remote",
-      "highlights": [
+        "**LLM-Powered Data Assistant:** Led the development and deployment of a Streamlit web application integrated with a large language model, enabling business users to query and explore company data conversationally.",
         "**Data Quality Integration:** Developed an Airflow provider for Collibra Data Quality, enabling seamless integration of quality checks into ETL processes and improving data accuracy.",
-        "**Process Automation:** Automated requirement-gathering processes, reducing response time by 40% and enhancing user support efficiency."
-      ]
-    },
-    {
-      "name": "Collibra",
-      "company": "Collibra",
-      "position": "Data Engineer",
-      "startDate": "2022-04",
-      "endDate": "2023-03",
-      "location": "Remote",
-      "highlights": [
+        "**Process Automation:** Automated requirement-gathering processes, reducing response time by 40% and enhancing user support efficiency.",
         "**Pipeline Modernization:** Led the migration of 50+ data pipelines to a new orchestration tool, enhancing processing speed and reliability.",
         "**Data Lake and Data Mesh:** Brought in new data sources and standardized best practices, improving data accessibility and pipeline consistency.",
         "**Technical Leadership:** Mentored junior engineers and conducted workshops to advance team expertise in data engineering best practices."
@@ -79,7 +59,16 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python", "Scala", "SQL", "Bash", "Rust"]
+      "keywords": ["Python", "Scala", "SQL", "Bash", "Rust", "Golang"]
+    },
+    {
+      "name": "AI",
+      "keywords": [
+        "Claude Code",
+        "Opencode",
+        "Openrouter",
+        "Agentic Engineering"
+      ]
     },
     {
       "name": "Data Tools",
@@ -87,7 +76,16 @@
     },
     {
       "name": "Databases/Datalakes",
-      "keywords": ["S3", "GCS", "Redshift", "BigQuery", "Snowflake", "Databricks", "AWS Glue/Athena", "PostgreSQL"]
+      "keywords": [
+        "S3",
+        "GCS",
+        "Redshift",
+        "BigQuery",
+        "Snowflake",
+        "Databricks",
+        "AWS Glue/Athena",
+        "PostgreSQL"
+      ]
     },
     {
       "name": "Cloud",
@@ -95,7 +93,13 @@
     },
     {
       "name": "DevOps",
-      "keywords": ["Terraform", "GitHub Actions", "Jenkins", "Docker", "Kubernetes"]
+      "keywords": [
+        "Terraform",
+        "GitHub Actions",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
     }
   ],
   "certificates": [
@@ -114,7 +118,7 @@
     {
       "name": "Microsoft Certified: Azure Fundamentals",
       "date": "2020-06-05",
-      "issuer": "Microsoft",  
+      "issuer": "Microsoft",
       "url": "https://www.youracclaim.com/badges/d1980c43-270b-4b89-b1ac-0bc742926376/linked_in_profile"
     },
     {
@@ -125,7 +129,7 @@
     },
     {
       "name": "AWS Solutions Architect Associate",
-      "date": "2019-11",
+      "date": "2019-11-01",
       "issuer": "Amazon Web Services",
       "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
     }
